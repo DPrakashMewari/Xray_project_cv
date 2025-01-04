@@ -1,0 +1,7 @@
+bentoml
+torchvison==0.20.0
+joblib
+tqdm
+pip-chill
+wincertstore
+
